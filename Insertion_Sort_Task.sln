@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{95B5461F-25A7-4180-81F4-35D9D30857D1}"
+	ProjectSection(SolutionItems) = preProject
+		Insertion_Sort_Task.md = Insertion_Sort_Task.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED8B76C-6F9A-4AA0-9591-B7B43C14A82B}
+	EndGlobalSection
+EndGlobal
